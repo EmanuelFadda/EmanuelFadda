@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
 
-Hi my name is Emanuel  and this is my website: [fadda.dev](fadda.dev):
+Hi my name is Emanuel and this is my website: [fadda.dev](fadda.dev):
 <br> 
 
 ### My education :open_book::
@@ -13,13 +13,13 @@ Hi my name is Emanuel  and this is my website: [fadda.dev](fadda.dev):
 
 This is the list of ALL the repository where i partecipated :computer:
 
-Project completed :white_check_mark::
+Projects completed :white_check_mark::
 -  [Sighi04/walletqr](https://github.com/Sighi04/walletqr) |Vue.js||Bootstrap| 
 - [EmanuelFadda/MangaProject](https://github.com/EmanuelFadda/MangaProject) |Flask||MySQL|
 - [riccardo30set/ProgettoBattlePokemon](https://github.com/riccardo30set/ProgettoBattlePokemon) |Java-Android||TCP-socket|
 - [riccardo30set/ProgettoPokeAPI](https://github.com/riccardo30set/ProgettoPokeAPI) |Java-Android|
 
-Project where i contributed but not completed :ghost::
+ Other projects :ghost::
 - [Maximilian284/TetrisCpp](https://github.com/Maximilian284/TetrisCpp) |C++|
 - [EmanuelFadda/DiscordBot](https://github.com/EmanuelFadda/DiscordBot) |Javascript||Node.js|
 - [EmanuelFadda/notepad](https://github.com/EmanuelFadda/notepad) |Vue.js||Bootstrap|
