@@ -14,7 +14,7 @@ Hi my name is Emanuel  and this is my website: [fadda.dev](fadda.dev):
 This is the list of ALL the repository where i partecipated :computer:
 
 Project completed :white_check_mark::
--  [Sighi04/walletqr](https://github.com/EmanuelFadda/walletqr) |Vue.js||Bootstrap| 
+-  [Sighi04/walletqr](https://github.com/Sighi04/walletqr) |Vue.js||Bootstrap| 
 - [EmanuelFadda/MangaProject](https://github.com/EmanuelFadda/MangaProject) |Flask||MySQL|
 - [riccardo30set/ProgettoBattlePokemon](https://github.com/riccardo30set/ProgettoBattlePokemon) |Java-Android||TCP-socket|
 - [riccardo30set/ProgettoPokeAPI](https://github.com/riccardo30set/ProgettoPokeAPI) |Java-Android|
