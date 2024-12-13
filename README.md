@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
 
-Hi my name is Emanuel and this is my website: [fadda.dev](fadda.dev):
+Hi my name is Emanuel and this is my website: [fadda.dev](https://fadda.dev):
 <br> 
 
 ### My education :open_book::
