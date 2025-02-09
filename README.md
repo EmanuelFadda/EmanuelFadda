@@ -18,6 +18,7 @@ Projects completed :white_check_mark::
 - [EmanuelFadda/MangaProject](https://github.com/EmanuelFadda/MangaProject) |Flask||MySQL|
 - [riccardo30set/ProgettoBattlePokemon](https://github.com/riccardo30set/ProgettoBattlePokemon) |Java-Android||TCP-socket|
 - [riccardo30set/ProgettoPokeAPI](https://github.com/riccardo30set/ProgettoPokeAPI) |Java-Android|
+- [EmanuelFadda/python-keylogger](https://github.com/EmanuelFadda/python-keylogger) |Python||TCP-socket|
 
  Other projects :ghost::
 - [Maximilian284/TetrisCpp](https://github.com/Maximilian284/TetrisCpp) |C++|
